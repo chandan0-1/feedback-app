@@ -2,7 +2,10 @@ import Header from './components/header'
 
 function App() {
   return (<>
-      <Header text="testing" />
+      <Header text="FeedBack-APP" />
+      <p>
+          My App
+      </p>
   </>
   );
 }
