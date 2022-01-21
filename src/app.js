@@ -1,4 +1,5 @@
 import Header from './components/header'
+import FeedbackItem from './components/feedbackItem';
 
 function App() {
   return (<>
@@ -6,6 +7,7 @@ function App() {
       <p>
           My App
       </p>
+      <FeedbackItem/>
   </>
   );
 }
